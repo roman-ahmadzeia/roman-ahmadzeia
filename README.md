@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**roman-ahmadzeia/roman-ahmadzeia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey There! 👋
 
-Here are some ideas to get you started:
+Im Roman, I am a computer science student based in Toronto and have a great passion for software development and always looking to learn something new.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What do I do?
+- ✔️Along with it I am working towards a Bachelors Of Science (BsC) focused in Computer Science from University Of Ontario Institute Of Technology.
+
+### 📫 How to reach me?
+If you would like to discuss these things, you can join me on [LinkedIn](https://www.linkedin.com/in/roman-ahmad-zeia-0b4902185/). 
+
+### 💬 Want to know more about me?
+You can find me on- [My personal portfolio](www.romanahmadzeia.com)
